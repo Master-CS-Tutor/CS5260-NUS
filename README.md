@@ -1,6 +1,6 @@
-# NUS-CS5260-Assignment
+# NUS CS5260 Assignment
 
-# NUS-CS5260-Assignment-Tutor
+# NUS-CS5260 Tutor
 
 # CS5260 Neural Network and Deep Learning II 提供1v1远程作业辅导📖，代码讲解💻
 
